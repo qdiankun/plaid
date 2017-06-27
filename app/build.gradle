@@ -63,7 +63,7 @@ android {
 
 repositories {
     jcenter()
-    google()
+//    google()
 }
 
 dependencies {
